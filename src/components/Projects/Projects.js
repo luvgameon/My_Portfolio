@@ -45,7 +45,7 @@ function Projects() {
             <ProjectCard
               imgPath={ecomm}
               isBlog={false}
-              title="IMDB Clone"
+              title="E-Commerce Website"
               description="E-commerce website is an application that gives users the option to see
               different products and add them to the cart, manipulating cart data"
               ghLink="https://github.com/luvgameon/E-Commerce"
@@ -57,7 +57,7 @@ function Projects() {
             <ProjectCard
               imgPath={weatherProj}
               isBlog={false}
-              title="Weather-App"
+              title="Weather App"
               description="Developed a weather app using ReactJS and a Weather API to fetch current weather data. Implemented responsive design to ensure optimal user experience across all devices. Utilized Axios to handle HTTP requests to the API endpoints. "
               ghLink="https://github.com/luvgameon/weather"
               demoLink="https://weather-luvgameon.vercel.app/"
