@@ -25,8 +25,8 @@ function Projects() {
               title="Mail Chat"
               description=" Mailbox client is an application where users can send and receive mail.
               Each user has their own account and users cannot access other users data "
-              ghLink="https://github.com/Ritik-122/weather-app-react-main"
-              demoLink="https://my-app-2hl8.vercel.app/"
+              ghLink="https://github.com/luvgameon/Mail-Box-Client"
+              demoLink="https://mail-box-client-three.vercel.app/"
             />
           </Col>
 
